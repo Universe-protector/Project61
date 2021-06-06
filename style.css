@@ -1,0 +1,86 @@
+body {
+    text-align: center;
+    background: linear-gradient(goldenrod 0%, gold 100%);
+}
+
+.menu {
+    list-style: none;
+    font-family: sans-serif;
+    float: right;
+    top: 10px;
+    right: 30px;
+    cursor: pointer;
+}
+
+.link {
+    float: right;
+    color: black;
+    padding-top: 5px;
+    padding-left: 9px;
+    padding-right: 9px;
+    padding-bottom: 5px;
+    font-family: fantasy;
+    font-size: 20px;
+
+}
+
+.link:hover {
+    background: silver;
+}
+
+html {
+    scroll-behavior: smooth
+}
+
+img {
+    border-radius: 50%;
+    width: 100px;
+    transition: transfrom.2s;
+    
+    
+}
+img:hover
+{
+     transform: scale(0.9)
+}
+
+.line {
+    height: 6px;
+    background-color: black;
+    width: 70px;
+    margin: 8px auto;
+     transition: transfrom.2s;
+}
+
+Mark {
+    transition: transfrom.2s;
+    transform: scale(0.9)
+}
+
+Elon {
+    transition: transfrom.2s;
+    transform: scale(0.9)
+}
+
+Mark:hover
+{
+     transform: scale(0.9)
+}
+
+Elon:hover
+{
+     transform: scale(0.9)
+}
+#contact {
+    background: Goldenrod;
+
+}
+
+.contact_1 a {
+    color: white;
+
+}
+
+.contact_1 h3 {
+    display: inline;
+}
