@@ -76,7 +76,7 @@ Elon:hover
 
 }
 
-.contact_1 a {
+.contact_1 a !important{
     color: white;
 
 }
